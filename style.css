@@ -135,3 +135,78 @@ button{
     margin-top: 30px;
     
 }
+.appointment-container{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    background-color: tomato;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: -40px;
+}
+.description{
+    display: flex;
+    justify-content: space-around;
+
+}
+.phone-call{
+    display: flex;
+    align-items: center;
+    
+}
+.phone{
+    padding: 20px;
+    color: white;
+}
+.description{
+    color: white;
+    border-left: 2px solid white;
+    line-height: 40px;
+    padding: 10px;
+    margin-top: 50px;
+}
+.appointment-buttton{
+    background-color: white;
+    color: #474747;
+    margin-left: 170px;
+    margin-top: 10px;
+}
+.blog-cont{
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    margin-top: 50px;
+}
+.blog-title{
+    text-align: center;
+    font-size: 60px;
+}
+.blog-des{
+    text-align: center;
+    margin-left: 10px;;
+}
+.blog-image{
+    width: 100%;
+    
+}
+.blog-container{
+    display: flex;
+   margin-left: 120px;
+   gap: 50px;
+   margin-top: 50px;
+   
+   
+}
+.box-cont{
+    width: 320px;
+    height: 400px;
+    box-shadow: 7px 5px 5px 7px lightgray;
+    border-radius: 5px;
+    
+    
+}
+.title-des{
+    padding: 20px;
+}
